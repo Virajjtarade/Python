@@ -13,3 +13,4 @@ scores=[
 
 for x in scores:
  print(x)
+      
