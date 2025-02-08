@@ -11,7 +11,5 @@ scores=[
         [47,50,45]
 ]
 
-marathi=[x[0] for x in scores]
-print(marathi)
-if marathi >=30:
- print(marathi)
+for x in scores:
+ print(x)
